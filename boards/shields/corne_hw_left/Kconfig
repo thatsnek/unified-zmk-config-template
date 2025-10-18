@@ -1,0 +1,2 @@
+config SHIELD_CORNE_HW_LEFT
+    bool "Corne hardware left shield"
